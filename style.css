@@ -1,0 +1,61 @@
+
+
+@font-face {
+  font-family: 'monocraft';
+  
+  src: url('font/Monocraft.otf');
+ 
+  font-weight: normal;
+  font-style: normal;
+  }
+
+#main{
+  position: relative;
+ margin-left: auto;
+ margin-right: auto;
+  border: 2px solid black;
+  border-bottom: 3px solid rgb(255, 0, 0);
+  border-top: 3px solid rgb(0, 0, 255);
+width: 700px;
+height: 500px;
+
+}
+
+#titl{
+font-family: monocraft;
+  text-align: center;
+}
+
+.beta{
+  width: 80px;
+}
+
+
+.bomb_red{
+position: absolute;
+top: 50%;
+
+
+}
+#spawn_blue{
+  position: relative;
+  bottom: 105px;
+    margin-left: 300px;
+    width: 100px;
+    height: 100px;
+    border: 1px solid blue;
+    }
+
+#spawn_red{
+position: relative;
+top: 400px ;
+margin-left: 300px;
+width: 100px;
+height: 100px;
+border: 1px solid red;
+}
+
+
+
+
+
